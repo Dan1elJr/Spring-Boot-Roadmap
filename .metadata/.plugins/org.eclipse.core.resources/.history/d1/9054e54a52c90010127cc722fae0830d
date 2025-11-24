@@ -1,0 +1,12 @@
+spring.application.name=mycoolapp
+
+# App metrics configuration
+
+management.endpoints.web.exposure=*
+management.info.env.enabled=true
+
+# info metrics configuration
+
+info.app.name=My Super cool App
+info.app.description=An app to study
+info.app.version=1.0.0
