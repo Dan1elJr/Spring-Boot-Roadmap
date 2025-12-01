@@ -27,10 +27,12 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\01-constructor-injection"/>
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core"/>
 			<item value="E:\DeveloperWorkSpace\mycoolapp"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="323"/>
+			<item key="DIALOG_X_ORIGIN" value="191"/>
 			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_WIDTH" value="885"/>
 			<item key="DIALOG_HEIGHT" value="629"/>
