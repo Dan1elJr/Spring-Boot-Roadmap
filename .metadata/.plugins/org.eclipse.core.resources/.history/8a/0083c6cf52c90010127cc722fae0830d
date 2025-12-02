@@ -1,9 +1,0 @@
-spring.application.name=mycoolapp
-
-management.endpoints.web.exposure=info
-management.info.env.enabled=true
-info.app.name=My Super cool App
-info.app.description=An app to study
-info.app.version=1.0.0
-
-

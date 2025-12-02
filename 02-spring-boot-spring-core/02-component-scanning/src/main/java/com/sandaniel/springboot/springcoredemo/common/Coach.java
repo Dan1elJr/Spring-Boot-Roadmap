@@ -1,0 +1,7 @@
+package com.sandaniel.springboot.springcoredemo.common;
+
+public interface Coach {
+
+	
+		String getDailyWorkout();
+}
