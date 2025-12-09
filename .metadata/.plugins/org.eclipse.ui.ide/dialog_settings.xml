@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="true"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\09-java-config-bean"/>
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\08-bean-lifecycle-methods"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\06-lazy-initialization"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\05-primary"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\03-setter-injection"/>
