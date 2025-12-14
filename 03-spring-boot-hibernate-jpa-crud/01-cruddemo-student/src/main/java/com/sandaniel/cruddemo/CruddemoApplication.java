@@ -1,5 +1,7 @@
 package com.sandaniel.cruddemo;
 
+import java.util.List;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -20,9 +22,51 @@ public class CruddemoApplication {
 		
 		return runner -> {
 			
+			// CreateStudent(studentDAO);
 			
-			createMultipleStudents(studentDAO);
+			// CreateMultipleStudents(studentDAO);
+			
+			//readStudent(studentDAO);
+			
+			 queryForStudents(studentDAO);
 		};
+		
+	}
+
+	private void queryForStudents(StudentDAO studentDAO) {
+		
+		// Get a list of students
+		List<Student> studentList = studentDAO.findAll();
+		
+		// Display a list of student
+		for(Student tempList : studentList) {
+			System.out.println(tempList);
+		}
+		
+	}
+
+	private void readStudent(StudentDAO studentDAO) {
+		
+		// Create a student object
+		System.out.println("Creating a new student object....");
+		Student tempStudent = new Student ("John", "Mayer", "mayer@sandaniel.com");
+		
+		// Save the student
+		System.out.println("Saving the student");
+		studentDAO.save(tempStudent);
+		
+		// Display id of the saved student
+		int theId = tempStudent.getId();
+		System.out.println("Saved student. Generated id: " + theId);
+		
+		
+		// Retrieve student based on the id: primary key
+		System.out.println("Retrieving student with id: " + theId);
+		Student myStudent = studentDAO.findById(theId);
+		
+		// Display student
+		System.out.println("Found the student: "+ myStudent);
+		
 		
 	}
 
