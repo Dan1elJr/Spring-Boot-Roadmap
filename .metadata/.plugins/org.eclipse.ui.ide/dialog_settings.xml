@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="true"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\09-java-config-bean"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\08-bean-lifecycle-methods"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\06-lazy-initialization"/>
@@ -33,6 +34,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\09-java-config-bean"/>
 			<item value="E:\DeveloperWorkSpace\03-spring-boot-hibernate-jpa-crud\01-cruddemo-student"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\06-lazy-initialization"/>
 			<item value="E:\DeveloperWorkSpace\02-spring-boot-spring-core\04-qualifiers"/>

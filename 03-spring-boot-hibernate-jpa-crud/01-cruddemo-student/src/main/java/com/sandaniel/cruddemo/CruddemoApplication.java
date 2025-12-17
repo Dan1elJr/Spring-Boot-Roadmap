@@ -24,7 +24,7 @@ public class CruddemoApplication {
 			
 			// CreateStudent(studentDAO);
 			
-			// CreateMultipleStudents(studentDAO);
+			createMultipleStudents(studentDAO);
 			
 			//readStudent(studentDAO);
 			
@@ -36,7 +36,7 @@ public class CruddemoApplication {
 			
 			//deleteStudent(studentDAO);
 			
-			deleteAllStudents(studentDAO);
+			//deleteAllStudents(studentDAO);
 		};
 		
 	}
