@@ -3,6 +3,9 @@ package com.sandaniel.demo.rest;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -42,6 +45,29 @@ public class StudentRestController {
 	@GetMapping("/student/{theStudentId}")
 	public Student getStudentById(@PathVariable int theStudentId){
 		
+		// Check the studentId against list size
+		
+		if(theStudentId >= theStudents.size() || theStudentId<0) {
+			throw new StudentNotFoundException(" Student id not found - " + theStudentId);
+		}
+				
 		return theStudents.get(theStudentId);
 	}
+	
+	// Add an excpetion handler using @ExcepitonHandler
+	
+	@ExceptionHandler
+	public ResponseEntity<StudentErrorResponse> handleException (StudentNotFoundException exc){
+		
+		// Create a StudentErrorRespons
+		StudentErrorResponse studentErrorResponse = new StudentErrorResponse();
+		
+		studentErrorResponse.setStatus(HttpStatus.NOT_FOUND.value());
+		studentErrorResponse.setMessage(exc.getMessage());
+		studentErrorResponse.setTimeStamp(System.currentTimeMillis());		
+		
+		// Return ResponseEntity
+		return new ResponseEntity<>(studentErrorResponse, HttpStatus.NOT_FOUND);
+	}
+	
 }
