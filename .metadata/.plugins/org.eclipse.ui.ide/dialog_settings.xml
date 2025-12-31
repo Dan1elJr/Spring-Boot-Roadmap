@@ -34,6 +34,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee"/>
+			<item value="E:\DeveloperWorkSpace\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee"/>
 			<item value="E:\DeveloperWorkSpace\04-spring-boot-rest-crud\01-spring-boot-rest-crud"/>
 			<item value="E:\DeveloperWorkSpace\04-spring-boot-rest-crud\api-demo"/>
 			<item value="E:\DeveloperWorkSpace\04-quick-api-demo"/>
@@ -50,7 +52,7 @@
 			<item value="E:\DeveloperWorkSpace\mycoolapp"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="166"/>
+			<item key="DIALOG_X_ORIGIN" value="296"/>
 			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_WIDTH" value="885"/>
 			<item key="DIALOG_HEIGHT" value="629"/>
