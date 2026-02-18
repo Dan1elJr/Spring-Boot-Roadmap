@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="true"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\DeveloperWorkSpace\tdd-in-java-practice"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee-with-spring-data-rest"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\03-spring-boot-rest-crud-employee-with-spring-data-jpa"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\01-spring-boot-rest-crud"/>
@@ -37,6 +38,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\DeveloperWorkSpace\05-spring-boot-rest-secutiry"/>
+			<item value="D:\DeveloperWorkSpace\tdd-in-java-practice"/>
+			<item value="D:\DeveloperWorkSpace\customservice"/>
+			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud"/>
+			<item value="D:\DeveloperWorkSpace\03-spring-boot-hibernate-jpa-crud"/>
+			<item value="D:\DeveloperWorkSpace\TestLifeCyclePerClassDemo"/>
+			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\01-spring-boot-rest-crud"/>
+			<item value="D:\DeveloperWorkSpace\02-spring-boot-spring-core"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\04-spring-boot-rest-crud-employee-with-spring-data-rest"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\03-spring-boot-rest-crud-employee-with-spring-data-jpa"/>
 			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee"/>
@@ -57,7 +66,7 @@
 			<item value="E:\DeveloperWorkSpace\mycoolapp"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="243"/>
+			<item key="DIALOG_X_ORIGIN" value="278"/>
 			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_WIDTH" value="938"/>
 			<item key="DIALOG_HEIGHT" value="629"/>

@@ -12,4 +12,98 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\DeveloperWorkSpace\04-spring-boot-rest-crud"/>
+			<item value="D:\DeveloperWorkSpace\CalculatorEclipse\test\com\sandaniel\appsdeveloperblog\DemoRepeatedTest.java"/>
+			<item value="D:\developer-work-space"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.sandaniel.customservice"/>
+			<item value="com.sandaniel.user_service"/>
+			<item value="com.sandaniel.java.simple_test"/>
+			<item value="com.sandaniel.java.simpletest"/>
+			<item value="com.sandaniel.appsdeveloperblog.CalculatorMavenProject"/>
+		</list>
+		<list key="groupId">
+			<item value="com.sandaniel"/>
+			<item value="com.sandaniel.java"/>
+			<item value="com.sandaniel.appsdeveloperblog"/>
+		</list>
+		<list key="artifactId">
+			<item value="customservice"/>
+			<item value="user-service"/>
+			<item value="simple-test"/>
+			<item value="simpletest"/>
+			<item value="CalculatorMavenProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.LocalArchetypeCatalogDialog">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.sandaniel"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="TestLifeCyclePerClassDemo"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
 </section>

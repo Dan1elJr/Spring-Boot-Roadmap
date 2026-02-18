@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-spring-boot-rest-crud/src/main/java"/>
+	<classpathentry kind="src" path="01-spring-boot-rest-crud/src/test/java"/>
+	<classpathentry kind="src" path="02-spring-boot-rest-crud-employee/src/main/java"/>
+	<classpathentry kind="src" path="02-spring-boot-rest-crud-employee/src/test/java"/>
+	<classpathentry kind="src" path="03-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java"/>
+	<classpathentry kind="src" path="03-spring-boot-rest-crud-employee-with-spring-data-jpa/src/test/java"/>
+	<classpathentry kind="src" path="04-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java"/>
+	<classpathentry kind="src" path="04-spring-boot-rest-crud-employee-with-spring-data-rest/src/test/java"/>
+	<classpathentry kind="lib" path="02-spring-boot-rest-crud-employee/target/demo-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="03-spring-boot-rest-crud-employee-with-spring-data-jpa/target/demo-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/4.0.0/spring-boot-autoconfigure-4.0.0.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/4.0.0/spring-boot-autoconfigure-4.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="4.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot/4.0.0/spring-boot-4.0.0.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot/4.0.0/spring-boot-4.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot"/>
+			<attribute name="maven.version" value="4.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/spring-web/7.0.2/spring-web-7.0.2.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/spring-web/7.0.2/spring-web-7.0.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-web"/>
+			<attribute name="maven.version" value="7.0.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0.jar" sourcepath="C:/Users/Casal/.m2/repository/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.annotation"/>
+			<attribute name="maven.artifactId" value="jakarta.annotation-api"/>
+			<attribute name="maven.version" value="3.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-test/4.0.0/spring-boot-test-4.0.0.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-test/4.0.0/spring-boot-test-4.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-test"/>
+			<attribute name="maven.version" value="4.0.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-test/4.0.1/spring-boot-test-4.0.1.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/boot/spring-boot-test/4.0.1/spring-boot-test-4.0.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-test"/>
+			<attribute name="maven.version" value="4.0.1"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/spring-context/7.0.1/spring-context-7.0.1.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/spring-context/7.0.1/spring-context-7.0.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context"/>
+			<attribute name="maven.version" value="7.0.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/org/springframework/spring-beans/7.0.1/spring-beans-7.0.1.jar" sourcepath="C:/Users/Casal/.m2/repository/org/springframework/spring-beans/7.0.1/spring-beans-7.0.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-beans"/>
+			<attribute name="maven.version" value="7.0.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Casal/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.2.0/jakarta.persistence-api-3.2.0.jar" sourcepath="C:/Users/Casal/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.2.0/jakarta.persistence-api-3.2.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="jakarta.persistence"/>
+			<attribute name="maven.artifactId" value="jakarta.persistence-api"/>
+			<attribute name="maven.version" value="3.2.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="01-spring-boot-rest-crud/target/classes"/>
+</classpath>
