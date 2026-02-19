@@ -1,1 +1,1 @@
-A repository that contains my study progress
+A repository that contains my study progress.
