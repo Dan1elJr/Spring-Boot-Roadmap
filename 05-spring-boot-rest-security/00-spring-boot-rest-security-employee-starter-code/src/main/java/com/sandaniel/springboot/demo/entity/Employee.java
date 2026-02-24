@@ -35,8 +35,6 @@ public class Employee {
 		
 	}
 
-
-
 	public Employee(String firstName, String lastName, String email) {
 		super();
 		this.firstName = firstName;
@@ -50,18 +48,13 @@ public class Employee {
 		return id;
 	}
 
-
-
 	public void setId(int id) {
 		this.id = id;
 	}
 
-
-
 	public String getFirstName() {
 		return firstName;
 	}
-
 
 
 	public void setFirstName(String firstName) {
@@ -69,23 +62,18 @@ public class Employee {
 	}
 
 
-
 	public String getLastName() {
 		return lastName;
 	}
-
-
 
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
 
 
-
 	public String getEmail() {
 		return email;
 	}
-
 
 
 	public void setEmail(String email) {
@@ -98,9 +86,6 @@ public class Employee {
 	public String toString() {
 		return "Employee [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + "]";
 	}
-	
-	
-	
 	
 	
 }
