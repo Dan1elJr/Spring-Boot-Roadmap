@@ -15,8 +15,7 @@ import org.springframework.security.web.SecurityFilterChain;
 @Configuration
 public class DemoSecurityConfig {
 
-	// Add support for JDBC
-	
+	// Add support for JDBC to autenthtication
 	@Bean
 	public UserDetailsManager userDetailsManager (DataSource dataSource) {
 		
@@ -47,16 +46,15 @@ public class DemoSecurityConfig {
     	
     	return http.build();
     }
-    
-    
-    
+   
 }
 
 
 /**
  * // Authentication
  * 
- * @Bean public InMemoryUserDetailsManager userDetailsManager() {
+ * @Bean 
+ * public InMemoryUserDetailsManager userDetailsManager() {
  * 
  *       UserDetails john = User.builder() .username("john")
  *       .password("{noop}test123") .roles("EMPLOYEE") .build();
