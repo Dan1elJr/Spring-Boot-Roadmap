@@ -15,7 +15,7 @@ import org.springframework.security.web.SecurityFilterChain;
 @Configuration
 public class DemoSecurityConfig {
 
-	// Add support for JDBC to autenthtication
+	// Add support for JDBC to authentication
 	@Bean
 	public UserDetailsManager userDetailsManager (DataSource dataSource) {
 		
