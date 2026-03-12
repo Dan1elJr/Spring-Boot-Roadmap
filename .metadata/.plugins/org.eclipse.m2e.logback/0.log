@@ -42869,3 +42869,102 @@ org.eclipse.core.runtime.CoreException: Launch configuration CruddemoApplication
 2026-03-12 17:27:00,336 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-03-12 17:27:00,341 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-03-12 17:27:00,344 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:32:14,125 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:32:14,139 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:32:14,144 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:32:21,328 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:32:21,333 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:32:21,336 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:32:22,405 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:32:22,415 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:32:22,418 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:32:23,682 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:32:23,686 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:32:23,689 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:37,825 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:37,830 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:37,833 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:42,894 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:42,900 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:42,903 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:44,571 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:44,581 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:44,587 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:47,302 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:47,306 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:47,309 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:49,349 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:49,353 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:49,356 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:57,752 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:57,762 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:57,765 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:33:59,985 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:33:59,989 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:33:59,992 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:34:13,837 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:34:13,841 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:34:13,844 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:34:14,880 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:34:14,884 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:34:14,886 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:07,591 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:07,601 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:07,603 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:15,401 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:15,412 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:15,418 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:19,801 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:19,805 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:19,808 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:25,586 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:25,591 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:25,593 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:42,628 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:42,638 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:42,641 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:35:58,760 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:35:58,764 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:35:58,767 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:36:01,113 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:36:01,117 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:36:01,119 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:36:37,843 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:36:37,850 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:36:37,852 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:37:07,979 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:37:07,990 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:37:07,995 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:37:23,582 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:37:23,587 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:37:23,589 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:37:55,024 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:37:55,029 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:37:55,031 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:46:38,822 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:46:38,828 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:46:38,831 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:46:58,183 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:46:58,192 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:46:58,194 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:46:59,621 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:46:59,630 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:46:59,632 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:47:40,289 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:47:40,299 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:47:40,301 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:47:58,674 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:47:58,678 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:47:58,680 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:49:34,283 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:49:34,295 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:49:34,302 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:49:35,532 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:49:35,536 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:49:35,538 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:49:50,298 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:49:50,302 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:49:50,305 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources
+2026-03-12 17:50:21,126 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-12 17:50:21,129 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-12 17:50:21,132 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni\src\test\resources

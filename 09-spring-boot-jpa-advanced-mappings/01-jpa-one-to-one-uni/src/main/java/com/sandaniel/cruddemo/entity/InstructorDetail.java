@@ -23,7 +23,9 @@ public class InstructorDetail {
 	private String hobby;
 	
 	
-	public InstructorDetail() {}
+	public InstructorDetail() {
+		
+	}
 
 
 	public InstructorDetail(String youtubeChannel, String hobby) {
