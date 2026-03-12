@@ -38,6 +38,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\DeveloperWorkSpace\09-spring-boot-jpa-advanced-mappings\01-jpa-one-to-one-uni"/>
 			<item value="D:\DeveloperWorkSpace\05-spring-boot-rest-security\00-spring-boot-rest-security-employee-starter-code"/>
 			<item value="D:\DeveloperWorkSpace\05-spring-boot-rest-security"/>
 			<item value="D:\DeveloperWorkSpace\05-spring-boot-rest-secutiry"/>
@@ -68,7 +69,7 @@
 			<item value="E:\DeveloperWorkSpace\mycoolapp"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="323"/>
+			<item key="DIALOG_X_ORIGIN" value="279"/>
 			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_WIDTH" value="938"/>
 			<item key="DIALOG_HEIGHT" value="629"/>
