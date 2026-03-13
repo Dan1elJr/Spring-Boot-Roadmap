@@ -1,113 +1,80 @@
-# Spring Boot Engineering Labs
+# 🚀 Spring Boot Engineering Labs
 
-Repositório focado em **aprendizado prático e progressivo do ecossistema Spring**, cobrindo desde os fundamentos do **Spring Core** até **segurança de APIs REST** e **mapeamentos avançados com JPA/Hibernate**.
+Repositório de **estudos práticos do ecossistema Spring**, evoluindo desde os fundamentos do **Spring Core** até **segurança de APIs REST** e **mapeamentos avançados com JPA/Hibernate**.
 
-Os projetos são organizados em **módulos independentes**, cada um explorando um conjunto específico de conceitos utilizados em aplicações backend modernas.
-
----
-
-## Projetos
-
-### 01 — Spring Boot Overview
-
-Base de uma aplicação Spring Boot.
-
-**Conceitos abordados**
-
-* Estrutura de aplicações Spring Boot
-* Auto-configuration
-* Inicialização e organização de projetos
+Cada módulo representa um **incremento real de complexidade**, simulando a evolução natural de uma aplicação backend profissional.
 
 ---
 
-### 02 — Spring Core: IoC & Dependency Injection
+## 🧩 Estrutura dos Projetos
 
-Exploração dos pilares do Spring Framework.
+| Módulo | Tema                                     | Principais Conceitos                                 |
+| ------ | ---------------------------------------- | ---------------------------------------------------- |
+| **01** | Spring Boot Overview                     | Estrutura de projeto, inicialização de aplicações    |
+| **02** | Spring Core - IoC / Dependency Injection | Inversion of Control, gerenciamento de Beans         |
+| **03** | Spring Core - Bean Configuration         | Configuração de Beans, DI externa                    |
+| **04** | Hibernate / JPA CRUD                     | Persistência de dados, repositórios JPA              |
+| **05** | REST API CRUD                            | Controllers REST, endpoints HTTP                     |
+| **06** | REST Security                            | Autenticação, autorização, proteção de endpoints     |
+| **09** | JPA Advanced Mappings                    | Relacionamentos entre entidades e modelagem avançada |
 
-**Destaques**
+---
 
-* Inversion of Control (IoC)
+## 📚 Principais Aprendizados
+
+### ⚙️ Spring Core
+
+* IoC (Inversion of Control)
 * Dependency Injection
-* Gerenciamento de Beans pelo container do Spring
+* Bean Lifecycle
+* Bean Configuration
 
----
+### 🗄️ Persistência de Dados
 
-### 03 — Spring Core: Bean Configuration
+* Hibernate
+* Spring Data JPA
+* CRUD Operations
+* Entity Mapping
 
-Configuração e gerenciamento avançado de Beans.
+### 🌐 APIs REST
 
-**Destaques**
-
-* Injeção de dependência externa
-* Configuração baseada em anotações
-* Ciclo de vida de Beans
-
----
-
-### 04 — Spring Boot + Hibernate / JPA CRUD
-
-Implementação de persistência de dados com **Spring Data JPA**.
-
-**Destaques**
-
-* Mapeamento de entidades
-* Repositórios JPA
-* Operações CRUD
-* Integração com banco de dados
-
----
-
-### 05 — REST API CRUD
-
-Construção de uma **API RESTful completa** com Spring Boot.
-
-**Destaques**
-
-* Controllers REST
+* REST Controllers
 * Arquitetura em camadas
 * Exposição de endpoints HTTP
 * Integração com camada de persistência
 
----
+### 🔐 Segurança
 
-### 06 — REST Security
-
-Implementação de **segurança em APIs REST com Spring Security**.
-
-**Destaques**
-
+* Spring Security
 * Autenticação
-* Autorização baseada em roles e authorities
+* Autorização baseada em Roles e Authorities
 * Proteção de endpoints
-* Controle de acesso
 
----
-
-### 09 — JPA Advanced Mappings
-
-Modelagem relacional avançada usando **Hibernate/JPA**.
-
-**Destaques**
+### 🧠 Modelagem Avançada
 
 * One-to-One
 * One-to-Many
 * Many-to-Many
-* Modelagem de relacionamentos complexos entre entidades
+* Relacionamentos complexos entre entidades
 
 ---
 
-## Stack
+## 🛠️ Stack Tecnológica
 
-* **Java**
-* **Spring Boot**
-* **Spring Core**
-* **Spring Data JPA**
-* **Hibernate**
-* **Spring Security**
-* **Maven**
+| Tecnologia          | Uso                           |
+| ------------------- | ----------------------------- |
+| **Java**            | Linguagem principal           |
+| **Spring Boot**     | Framework backend             |
+| **Spring Core**     | Injeção de dependência e IoC  |
+| **Spring Data JPA** | Persistência de dados         |
+| **Hibernate**       | ORM                           |
+| **Spring Security** | Segurança de APIs             |
+| **Maven**           | Gerenciamento de dependências |
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-Construir uma **base sólida no desenvolvimento backend com Spring**, aplicando conceitos fundamentais e avançados utilizados em **APIs REST seguras, escaláveis e orientadas a boas práticas**.
+Construir uma **base sólida no desenvolvimento backend com Spring**, aplicando conceitos utilizados em **APIs REST modernas, seguras e escaláveis**.
+
+Este repositório funciona como um **laboratório de engenharia backend**, onde cada módulo adiciona novos conceitos e práticas do ecossistema Spring.
